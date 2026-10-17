@@ -1,0 +1,13 @@
+pymupdf>=1.24.3
+pytesseract>=0.3.10
+pillow>=10.0
+pydantic>=2.5
+instructor>=1.7
+anthropic>=0.40
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+pandas>=2.0
+python-dotenv>=1.0
+reportlab>=4.0
+numpy>=1.26
+pytest>=8.0
